@@ -237,7 +237,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <hr/>
-
+<h2 id="setup">Collaborative document</h2>
+<p id="collaborative_notes">
+  <b>We will use this <a href=" http://pad.software-carpentry.org/2010-02-11-Imperial">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.</b>
+</p>
 {% comment %}
   SYLLABUS
 
