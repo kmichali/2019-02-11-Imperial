@@ -202,7 +202,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <hr/>
 
-{% comment %}
+
 <h2 id="registration">Registration</h2>
 <p>Please register <a href="https://goo.gl/forms/H06LB6KNz2DhRORA3">here</a>.</p>
 <hr/>
